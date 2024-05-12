@@ -1,6 +1,10 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
- (https://github.com/ManishYadav11/chatApp-MERN/assets/117844262/7c83ec03-5c40-4190-99ba-a968a85cb03c)
+OUTPUT 
+
+(https://github.com/ManishYadav11/chatApp-MERN/assets/117844262/7b787dc9-b77b-40cb-bdb4-06731e647277)
+(https://github.com/ManishYadav11/chatApp-MERN/assets/117844262/67314702-d210-4a18-b125-4e49134042a8)
+(https://github.com/ManishYadav11/chatApp-MERN/assets/117844262/7c83ec03-5c40-4190-99ba-a968a85cb03c)
 
 
 # To Run the Project
