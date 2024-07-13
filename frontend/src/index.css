@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/bg.png");
+	background: linear-gradient(rgb(0, 0, 0), rgba(240, 231, 231, 0.2)), url("https://png.pngtree.com/background/20230619/original/pngtree-light-blue-background-showcases-3d-rendering-of-chat-application-interface-picture-image_3761079.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
